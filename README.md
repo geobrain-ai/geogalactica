@@ -4,24 +4,25 @@
 <h2>A Larger foundation language model in Geoscience</h2>
 </div>
 
-<a href='#'><img src='https://img.shields.io/badge/Paper-ArXiv-C71585'></a> <a href='https://huggingface.co/geobrain-ai/geogalactica'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging Face-geogalactica-red'></img></a> <a href='https://huggingface.co/datasets/daven3/geosignal'><img src='https://img.shields.io/badge/Dataset-GeoSignal-4169E1'></img></a> <a href='https://huggingface.co/datasets/daven3/geobench'><img src='https://img.shields.io/badge/Dataset-GeoBench-4169E1'></img></a>
+<a href='https://arxiv.org/abs/2401.00434'><img src='https://img.shields.io/badge/Paper-ArXiv-C71585'></a> <a href='https://huggingface.co/geobrain-ai/geogalactica'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging Face-geogalactica-red'></img></a> <a href='https://huggingface.co/datasets/daven3/geosignal'><img src='https://img.shields.io/badge/Dataset-GeoSignal-4169E1'></img></a> <a href='https://huggingface.co/datasets/daven3/geobench'><img src='https://img.shields.io/badge/Dataset-GeoBench-4169E1'></img></a>
 
-- Technical report is on the way!
+- Technical report is [HERE](https://arxiv.org/abs/2401.00434)!
 - The data pre-processing toolkits are open sourced on [sciparser](https://github.com/davendw49/sciparser)!
 
 ## Introduction
 
-coming soon...
+GeoGalactica is from further pre-training of Galactica -- a top-performing LLM trained with a large number of scientific documents. In this work, we take the initial step to leverage LLM for science, through a rather straightforward approach. We try to specialize an open-sourced LLM into geoscience, by further pre-training the model with a vast amount of texts in geoscience, as well as supervised fine-tuning (SFT) the resulting model with our custom collected instruction tuning dataset. These efforts result in a model GeoGalactica consisting of 30 billion parameters. To our best knowledge, it is the largest language model for the geoscience domain.
 
 ## Resources
 
 - Code: https://github.com/geobrain-ai/geogalactica
 - Data: https://huggingface.co/datasets/daven3/geobench, https://huggingface.co/datasets/daven3/geosignal, and https://github.com/zthang/geotools
 - Model: https://huggingface.co/geobrain-ai/geogalactica
+- Checkpoints: https://huggingface.co/geobrain-ai/geogalactica-ckpt
 - Plot: https://github.com/dbylynn/GeoGalactica_Analysis
 - Sciparser: https://github.com/davendw49/sciparser
 
-## Quick Start
+<!--## Quick Start
 
 coming soon...
 
@@ -31,7 +32,7 @@ coming soon...
 
 ## Cases
 
-coming soon...
+coming soon...-->
 
 ## Contributors
 
@@ -61,4 +62,13 @@ GeoGalactica is a research preview intended for non-commercial use only, subject
 ## Citation
 If you use the code or data of **GeoGalactica**, please declare the reference with the following:
 
-coming soon!
+```
+@misc{lin2023geogalactica,
+      title={GeoGalactica: A Scientific Large Language Model in Geoscience}, 
+      author={Zhouhan Lin and Cheng Deng and Le Zhou and Tianhang Zhang and Yi Xu and Yutong Xu and Zhongmou He and Yuanyuan Shi and Beiya Dai and Yunchong Song and Boyi Zeng and Qiyuan Chen and Tao Shi and Tianyu Huang and Yiwei Xu and Shu Wang and Luoyi Fu and Weinan Zhang and Junxian He and Chao Ma and Yunqiang Zhu and Xinbing Wang and Chenghu Zhou},
+      year={2023},
+      eprint={2401.00434},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
