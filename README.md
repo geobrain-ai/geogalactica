@@ -16,7 +16,6 @@ GeoGalactica is from further pre-training of Galactica -- a top-performing LLM t
 ## Resources
 
 - Paper: https://github.com/geobrain-ai/geogalactica 
-- Code: https://github.com/geobrain-ai/geogalactica
 - Data: https://huggingface.co/datasets/daven3/geobench, https://huggingface.co/datasets/daven3/geosignal, and https://github.com/zthang/geotools
 - Model: https://huggingface.co/geobrain-ai/geogalactica
 - Checkpoints: https://huggingface.co/geobrain-ai/geogalactica-ckpt
@@ -30,7 +29,7 @@ The folder `example_data` shares data file format during the training.
 
 ## Contributors
 
-This project was founded by Acemap at Shanghai Jiao Tong University, leading by [Zhouhan Lin](https://hantek.github.io/) and a group of students including [Cheng Deng](https://big-cheng.com/)* (student leader), [Le Zhou](https://github.com/lzhou1998), [Tianhang Zhang](https://github.com/zthang), [Yi Xu](https://github.com/xyjigsaw), [Yutong Xu](https://github.com/xyt-fe), [Beiya Dai](https://github.com/dbylynn), [Qiyuan Chen](mailto:qiyuan04@sjtu.edu.cn), [Yuanyuan Shi](https://github.com/syy-yoyo) and [Zhongmou He](https://github.com/twelfth-star) supervised by [Zhouhan Lin](https://hantek.github.io/), [Junxian He](https://jxhe.github.io/), and Xinbing Wang. The whole project is supported by **Chenghu Zhou** and the Institute of Geographical Science, Natural Resources Research, Chinese Academy of Sciences, and [Deep-time Digital Earth Big Science Project](https://www.iugs.org/dde). 
+This project was founded by Acemap at Shanghai Jiao Tong University, leading by [Zhouhan Lin](https://hantek.github.io/) and a group of students including [Cheng Deng](https://big-cheng.com/)* (student leader), [Le Zhou](https://github.com/lzhou1998), [Tianhang Zhang](https://github.com/zthang), [Yi Xu](https://github.com/xyjigsaw), [Yutong Xu](https://github.com/xyt-fe), [Beiya Dai](https://github.com/dbylynn), [Qiyuan Chen](mailto:qiyuan04@sjtu.edu.cn), [Yuanyuan Shi](https://github.com/syy-yoyo) and [Zhongmou He](https://github.com/twelfth-star) supervised by [Zhouhan Lin](https://hantek.github.io/), [Junxian He](https://jxhe.github.io/), Xinbing Wang, and Chenghu Zhou.
 
 ## Acknowledgements
 
@@ -42,8 +41,6 @@ GeoGalactica has referred to the following open-source projects. We want to expr
 - alpaca-lora by @tloen: https://github.com/tloen/alpaca-lora
 - alpaca-gp4 by Chansung Park: https://github.com/tloen/alpaca-lora/issues/340
 - K2 by Cheng Deng: https://github.com/davendw49/k2
-
-GeoGalactica is under the support of **Chenghu Zhou** and the Institute of Geographical Science, Natural Resources Research, Chinese Academy of Sciences, and [Deep-time Digital Earth Big Science Project](https://www.iugs.org/dde).
 
 We would also like to express our appreciation for the effort of data processing and annotation from the students in CAS.
 
