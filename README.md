@@ -1,6 +1,7 @@
 <div style="text-align:center">
 <centering>
-<img src="https://big-cheng.com/geogal/geogal_orange.png" alt="geogal-logo" width="400"/>
+<h1>Ge🌏Galactica</h1>
+<!-- <img src="https://big-cheng.com/geogal/geogal_orange.png" alt="geogal-logo" width="400"/> -->
 <h2>A Scientific Large Language Model in Geoscience</h2>
 </div>
 
@@ -10,11 +11,7 @@
 - The data pre-processing toolkits are open sourced on [sciparser](https://github.com/davendw49/sciparser)!
 
 ## Statement
-*Due to certain oversights and unclear expressions on copy-right related issues while organizing our work, especially training data, we will take down the link to GeoGalactica model family from GitHub to suspend public dissemination of the GeoGalactica model. We feel sorry to the publishers and organizations affected. Respecting copyrights and academic norms has always been our team's stance.*
-
-*Fully considering reasonable suggestions, we will properly utilize geoscience data collected from open platforms, combined with our team's prior accumulations, to carry out a new round of model training. The data for the new round of model training will originate from 540 open-access journals related to Earth sciences, natural sciences, computer science, and other geoscience-related fields. The articles in these OpenAccess journals adhere to the principle of open sharing and are published on the journal's website. By using public, open-source web data like CommonCrawl, we have reacquired a considerable corpus, and together with the abstract data accumulated earlier, we foresee that we'll still manage to collect a large enough corpus that doesn't involve copyright disputes.*
-      
-*The new version of our model trained from the newer, selected corpora is currently under development, and we will update the new model parameters to our GitHub account once it is ready.*
+**To clarify with potential confusions, we hereby state that the model with the manuscript "GeoGalactica: A Scientific Large Language Model in Geoscience" is not associated with the DDE Program, nor supported by DDE related fundings. We feel sorry for the unintentional misunderstandings and inconvenience, and we commit to prevent future misunderstandings.**
 
 ## Introduction
 
