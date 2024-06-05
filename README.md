@@ -1,7 +1,7 @@
 <div style="text-align:center">
 <centering>
 <h1>Ge🌏Galactica</h1>
-<!-- <img src="https://big-cheng.com/geogal/geogal_orange.png" alt="geogal-logo" width="400"/> -->
+<!-- <img src="https://www.cdeng.net/geogal/geogal_orange.png" alt="geogal-logo" width="400"/> -->
 <h2>A Scientific Large Language Model in Geoscience</h2>
 </div>
 
@@ -33,7 +33,7 @@ The folder `example_data` shares data file format during the training.
 
 ## Contributors
 
-This project was founded by Acemap at Shanghai Jiao Tong University, leading by [Zhouhan Lin](https://hantek.github.io/) and a group of students including [Cheng Deng](https://big-cheng.com/)* (student leader), [Le Zhou](https://github.com/lzhou1998), [Tianhang Zhang](https://github.com/zthang), [Yi Xu](https://github.com/xyjigsaw), [Yutong Xu](https://github.com/xyt-fe), [Beiya Dai](https://github.com/dbylynn), [Qiyuan Chen](mailto:qiyuan04@sjtu.edu.cn), [Yuanyuan Shi](https://github.com/syy-yoyo) and [Zhongmou He](https://github.com/twelfth-star) supervised by [Zhouhan Lin](https://hantek.github.io/), [Junxian He](https://jxhe.github.io/), Xinbing Wang, and Chenghu Zhou.
+This project was founded by Acemap at Shanghai Jiao Tong University, leading by [Zhouhan Lin](https://hantek.github.io/) and a group of students including [Cheng Deng](https://www.cdeng.net/)* (student leader), [Le Zhou](https://github.com/lzhou1998), [Tianhang Zhang](https://github.com/zthang), [Yi Xu](https://github.com/xyjigsaw), [Yutong Xu](https://github.com/xyt-fe), [Beiya Dai](https://github.com/dbylynn), [Qiyuan Chen](mailto:qiyuan04@sjtu.edu.cn), [Yuanyuan Shi](https://github.com/syy-yoyo) and [Zhongmou He](https://github.com/twelfth-star) supervised by [Zhouhan Lin](https://hantek.github.io/), [Junxian He](https://jxhe.github.io/), Xinbing Wang, and Chenghu Zhou.
 
 ## Acknowledgements
 
