@@ -5,7 +5,7 @@
 <h2>A Scientific Large Language Model in Geoscience</h2>
 </div>
 
-<a href='https://arxiv.org/abs/2401.00434'><img src='https://img.shields.io/badge/Paper-ArXiv-C71585'></a> <a href='https://huggingface.co/geobrain-ai/qomolangma'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging Face-geogalactica-red'></img></a> <a href='https://huggingface.co/datasets/daven3/geosignal'><img src='https://img.shields.io/badge/Dataset-GeoSignal-4169E1'></img></a> <a href='https://huggingface.co/datasets/daven3/geobench'><img src='https://img.shields.io/badge/Dataset-GeoBench-4169E1'></img></a>
+<a href='https://arxiv.org/abs/2401.00434'><img src='https://img.shields.io/badge/Paper-ArXiv-C71585'></a> <a href='https://huggingface.co/geobrain-ai/geogalactica'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging Face-geogalactica-red'></img></a> <a href='https://huggingface.co/datasets/daven3/geosignal'><img src='https://img.shields.io/badge/Dataset-GeoSignal-4169E1'></img></a> <a href='https://huggingface.co/datasets/daven3/geobench'><img src='https://img.shields.io/badge/Dataset-GeoBench-4169E1'></img></a>
 
 - Technical report is [HERE](https://arxiv.org/abs/2401.00434)!
 - The data pre-processing toolkits are open sourced on [sciparser](https://github.com/davendw49/sciparser)!
